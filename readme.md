@@ -3,6 +3,11 @@
 
 Exercícios da matéria de front-end do curso de **Programação Fullstack** do **Serratec**
 
+Links para visualização dos exercícios prontos: 
+[exercicio-01](https://elionardosantos.github.io/serratec-front-end-exercicio/exercicio-01/),
+[exercicio-02](https://elionardosantos.github.io/serratec-front-end-exercicio/exercicio-02/),
+[exercicio-03](https://elionardosantos.github.io/serratec-front-end-exercicio/exercicio-03/).
+
 ### 1 - Crie uma página HTML chamada `index.html` com uma breve apresentação pessoal. A página deve conter informações sobre você, seus interesses e uma imagem representativa.
 
 #### Requisitos: A página deve conter:
